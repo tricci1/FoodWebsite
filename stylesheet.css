@@ -1,3 +1,27 @@
 body{
 color:blue;
 }
+#navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #682c0e;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+}
+.top {
+  color: #024e68;
+  font-size: 45px;
+  font-family: Audiowide;
+  background-image: url(Seasons eatings.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 80px;
+  padding-left: 30px;
+  padding-top: 45px;
+  -webkit-text-stroke: 1px white;
+  text-align: center;
+}
