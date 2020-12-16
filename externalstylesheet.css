@@ -42,7 +42,7 @@ width:100%;
   text-decoration: none;
 }
 #select a:hover {
-  background-color: #04396C;
+  background-color: #b9232b;
 }
 .sub-menu-1{
 
@@ -52,7 +52,18 @@ width:100%;
 #select:hover .sub-menu-1{
   display: block;
   position: absolute;
-  background: #034769;
+  background: #682c0e;
   margin-top: 0px;
   margin-left: -15px;
+}
+#banner button {
+text-decoration:none;
+text-align:center;
+align-content:center;
+margin:auto;
+width:70%
+}
+#banner button a:hover{
+color:#b9232b;
+background-color:#b9232b;
 }
