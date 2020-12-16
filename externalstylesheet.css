@@ -12,6 +12,7 @@ a {
     font-size: 1vw;
     text-align: center;
     align-content: center;
+    padding: 14px;
 }
 
 p {
@@ -19,6 +20,7 @@ p {
     font-size: 2vw;
     text-align: center;
     align-content: center;
+    padding: 14px;
 }
 
 #navbar {
