@@ -1,6 +1,11 @@
 body{
 color:blue;
 }
+
+a {
+    font-family: lobster;
+}
+
 #navbar {
   list-style-type: none;
   margin: 0;
