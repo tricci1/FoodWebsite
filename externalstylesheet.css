@@ -7,6 +7,10 @@ a {
     font-size: 1vw;
 }
 
+p {
+    font-family: lobster;
+    font-size: 1vw;
+}
 #navbar {
   list-style-type: none;
   margin: 0;
