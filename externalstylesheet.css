@@ -17,6 +17,7 @@ p {
     text-align: center;
     align-content: center;
 }
+
 #navbar {
   list-style-type: none;
   margin: 0;
@@ -28,9 +29,11 @@ p {
   justify-content: space-between;
 
 }
+
 #banner {
 width:100%;
 }
+
 .top {
   color: #024e68;
   font-size: 45px;
@@ -44,10 +47,12 @@ width:100%;
   -webkit-text-stroke: 1px white;
   text-align: center;
 }
+
 #select {
   float: left;
   padding-right: 80px;
 }
+
 #select a {
   font-family: Audiowide;
   display: block;
@@ -61,7 +66,6 @@ width:100%;
   background-color: #b9232b;
 }
 .sub-menu-1{
-
   display: none;
 }
 
