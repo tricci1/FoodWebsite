@@ -1,15 +1,21 @@
 body{
 color:blue;
+  text-align: center;
+    align-content: center;  
 }
 
 a {
     font-family: lobster;
     font-size: 1vw;
+    text-align: center;
+    align-content: center;
 }
 
 p {
     font-family: lobster;
     font-size: 2vw;
+    text-align: center;
+    align-content: center;
 }
 #navbar {
   list-style-type: none;
