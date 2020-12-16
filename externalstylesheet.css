@@ -1,7 +1,7 @@
 body{
 color:blue;
 }
-#navBar {
+#navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -11,6 +11,9 @@ color:blue;
   display: flex;
   justify-content: space-between;
 
+}
+#banner {
+width:100%;
 }
 .top {
   color: #024e68;
@@ -24,4 +27,32 @@ color:blue;
   padding-top: 45px;
   -webkit-text-stroke: 1px white;
   text-align: center;
+}
+#select {
+  float: left;
+  padding-right: 80px;
+}
+#select a {
+  font-family: Audiowide;
+  display: block;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+}
+#select a:hover {
+  background-color: #04396C;
+}
+.sub-menu-1{
+
+  display: none;
+}
+
+#select:hover .sub-menu-1{
+  display: block;
+  position: absolute;
+  background: #034769;
+  margin-top: 0px;
+  margin-left: -15px;
 }
