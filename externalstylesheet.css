@@ -1,7 +1,8 @@
 body{
 background-color:green;
   text-align: center;
-    align-content: center;  
+    align-content: center; 
+    display: block;
 }
 
 a {
