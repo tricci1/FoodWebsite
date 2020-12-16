@@ -3,10 +3,12 @@ background-color:green;
   text-align: center;
     align-content: center; 
     display: block;
+    max-width: 1000%;
+  margin: auto;
 }
 
 a {
-    font-family: lobster ;
+    font-family: lobster;
     font-size: 1vw;
     text-align: center;
     align-content: center;
