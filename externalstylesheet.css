@@ -1,5 +1,5 @@
 body{
-background-color:#00A67C !important;
+background-color:#1F7C65 !important;
   text-align: center;
     align-content: center; 
     display: block;
@@ -13,6 +13,7 @@ a {
     text-align: center;
     align-content: center;
     padding: 14px;
+    color: #FF5F00
 }
 
 p {
@@ -22,6 +23,10 @@ p {
     align-content: center;
     padding: 14px;
 }
+
+.para{
+    color:#A63E00
+} 
 
 #navbar {
   list-style-type: none;
