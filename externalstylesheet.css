@@ -1,6 +1,28 @@
 body{
-color:blue;
+background-color:green;
+  text-align: center;
+    align-content: center; 
+    display: block;
+    max-width: 1000%;
+  margin: auto;
 }
+
+a {
+    font-family: lobster;
+    font-size: 1vw;
+    text-align: center;
+    align-content: center;
+    padding: 14px;
+}
+
+p {
+    font-family: lobster;
+    font-size: 2vw;
+    text-align: center;
+    align-content: center;
+    padding: 14px;
+}
+
 #navbar {
   list-style-type: none;
   margin: 0;
@@ -12,9 +34,11 @@ color:blue;
   justify-content: space-between;
 
 }
+
 #banner {
 width:100%;
 }
+
 .top {
   color: #024e68;
   font-size: 45px;
@@ -28,10 +52,12 @@ width:100%;
   -webkit-text-stroke: 1px white;
   text-align: center;
 }
+
 #select {
   float: left;
   padding-right: 80px;
 }
+
 #select a {
   font-family: Audiowide;
   display: block;
@@ -45,7 +71,6 @@ width:100%;
   background-color: #b9232b;
 }
 .sub-menu-1{
-
   display: none;
 }
 
@@ -61,5 +86,4 @@ text-decoration:none;
 text-align:center;
 align-content:center;
 margin:auto;
-width:70%
 }
