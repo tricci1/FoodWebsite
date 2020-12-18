@@ -24,6 +24,20 @@ p {
     align-content: center;
     padding: 14px;
 }
+b {
+    font-family: lobster;
+    font-size: 2vw;
+    text-align: center;
+    align-content: center;
+    padding: 14px;
+}
+h1 {
+    font-family: lobster;
+    font-size: 3vw;
+    text-align: center;
+    align-content: center;
+    padding: 3px;
+}
 
 .para{
     color:#A63E00
@@ -113,8 +127,8 @@ margin:auto;
   vertical-align: top;
 }
 .left {
-width:30%;
-height:30%;
+width:37%;
+height:710px;
 margin-left:10%;
 padding-bottom:20px;
 padding-left:40px;
