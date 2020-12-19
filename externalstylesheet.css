@@ -47,7 +47,7 @@ h1 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #a4b787;
+  background-color: #aa3a3a;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -87,7 +87,7 @@ width:100%;
   text-decoration: none;
 }
 #select a:hover {
-  background-color: #aa3a3a;
+  background-color: #799351;
 }
 .sub-menu-1{
   display: none;
@@ -96,7 +96,7 @@ width:100%;
 #select:hover .sub-menu-1{
   display: block;
   position: absolute;
-  background: #a4b787;
+  background: #aa3a3a;
   margin-top: 0px;
   margin-left: -15px;
 }
