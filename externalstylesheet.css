@@ -51,7 +51,7 @@ h1 {
   width: 100%;
   display: flex;
   justify-content: space-between;
-
+    
 }
 
 #banner {
@@ -152,14 +152,14 @@ text-align:center;
 margin-right:5%;
 float:right;
 }
-.leftgal {
-width:50%;
+.centergal {
+width:100%;
 height:50vw;
 padding-bottom:20px;
 padding-right:20px;
 padding-bottom:20px;
 text-align:center;
-float:left;
+float:center;
 }
 .rightgal {
 overflow:auto;
@@ -180,12 +180,14 @@ float:right;
   display: table;
   width:100%;
 }
- .column {
+.column {
   float: center;
-  width: 16.66%;
-  background-color:red;
-  padding: 5px;
-  width:100%;
+  width: 50%;
+  padding: 10px;
+}
+.img-circle {
+    border-radius: 50%;
+	margin-left:1vw:
 }
 
 img.circle {
@@ -197,6 +199,3 @@ img.thumbnail {
   border: 2px solid #C0C0C0;
   padding: 5px
 }
-
-
-
