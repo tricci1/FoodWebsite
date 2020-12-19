@@ -152,11 +152,9 @@ margin-right:5%;
 float:right;
 }
 .leftgal {
-width:37%;
+width:50%;
 height:710px;
-margin-left:10%;
 padding-bottom:20px;
-padding-left:40px;
 padding-right:20px;
 padding-bottom:20px;
 text-align:center;
@@ -164,7 +162,7 @@ float:left;
 }
 .rightgal {
 overflow:auto;
-width:40%;
+width:39%;
 height:700px;
 padding-bottom:20px;
 padding-left:20px;
@@ -172,5 +170,19 @@ padding-right:20px;
 padding-bottom:20px;
 text-align:center;
 margin-right:5%;
+background-color: #A63E00;
 float:right;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  width:100%;
+}
+ .column {
+  float: center;
+  width: 16.66%;
+  background-color:red;
+  padding: 5px;
+  width:100%;
 }
