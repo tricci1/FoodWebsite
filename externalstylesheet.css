@@ -1,6 +1,6 @@
 
 body{
-background-color:#1F7C65 !important;
+background-color: #f8e4b7 !important;
   text-align: center;
     align-content: center; 
     display: block;
@@ -14,7 +14,7 @@ a {
     text-align: center;
     align-content: center;
     padding: 14px;
-    color: #FF5F00
+    color: #a4b787
 }
 
 p {
@@ -40,14 +40,14 @@ h1 {
 }
 
 .para{
-    color:#A63E00
+    color:#799351
 } 
 #navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #A63E00;
+  background-color: #a4b787;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -87,7 +87,7 @@ width:100%;
   text-decoration: none;
 }
 #select a:hover {
-  background-color: #b9232b;
+  background-color: #aa3a3a;
 }
 .sub-menu-1{
   display: none;
@@ -96,7 +96,7 @@ width:100%;
 #select:hover .sub-menu-1{
   display: block;
   position: absolute;
-  background: #A63E00;
+  background: #a4b787;
   margin-top: 0px;
   margin-left: -15px;
 }
@@ -135,7 +135,7 @@ padding-bottom:20px;
 padding-left:40px;
 padding-right:20px;
 padding-bottom:20px;
-background-color: #A63E00;
+background-color: #a4b787;
 text-align:center;
 float:left;
 }
@@ -147,7 +147,7 @@ padding-bottom:20px;
 padding-left:20px;
 padding-right:20px;
 padding-bottom:20px;
-background-color: #A63E00;
+background-color: #a4b787;
 text-align:center;
 margin-right:5%;
 float:right;
@@ -171,7 +171,7 @@ padding-right:20px;
 padding-bottom:20px;
 text-align:center;
 margin-right:5%;
-background-color: #A63E00;
+background-color: #a4b787;
 float:right;
 }
 .row::after {
