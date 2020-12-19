@@ -127,8 +127,9 @@ margin:auto;
   vertical-align: top;
 }
 .left {
+overflow:auto;
 width:37%;
-height:710px;
+height:50vw;
 margin-left:10%;
 padding-bottom:20px;
 padding-left:40px;
@@ -141,7 +142,7 @@ float:left;
 .right {
 overflow:auto;
 width:40%;
-height:700px;
+height:50vw;
 padding-bottom:20px;
 padding-left:20px;
 padding-right:20px;
@@ -153,7 +154,7 @@ float:right;
 }
 .leftgal {
 width:50%;
-height:710px;
+height:50vw;
 padding-bottom:20px;
 padding-right:20px;
 padding-bottom:20px;
@@ -163,7 +164,7 @@ float:left;
 .rightgal {
 overflow:auto;
 width:39%;
-height:700px;
+height:50vw;
 padding-bottom:20px;
 padding-left:20px;
 padding-right:20px;
