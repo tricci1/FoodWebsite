@@ -10,7 +10,7 @@ background-color:#1F7C65 !important;
 
 a {
     font-family: lobster;
-    font-size: 1vw;
+    font-size: 2vw;
     text-align: center;
     align-content: center;
     padding: 14px;
@@ -19,7 +19,7 @@ a {
 
 p {
     font-family: lobster;
-    font-size: 2vw;
+    font-size: 3vw;
     text-align: center;
     align-content: center;
     padding: 14px;
@@ -33,7 +33,7 @@ b {
 }
 h1 {
     font-family: lobster;
-    font-size: 3vw;
+    font-size: 4vw;
     text-align: center;
     align-content: center;
     padding: 3px;
@@ -81,7 +81,7 @@ width:100%;
   font-family: Audiowide;
   display: block;
   color: white;
-  font-size: 2vw;
+  font-size: 3vw;
   text-align: center;
   padding: 18px 20px;
   text-decoration: none;
