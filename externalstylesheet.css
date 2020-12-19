@@ -44,14 +44,13 @@ h1 {
 } 
 #navbar {
   list-style-type: none;
-  margin: 0;
+  margin: auto;
   padding: 0;
   overflow: hidden;
   background-color: #aa3a3a;
   width: 100%;
   display: flex;
   justify-content: space-between;
-    
 }
 
 #banner {
